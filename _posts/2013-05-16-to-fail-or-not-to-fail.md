@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "To Fail or Not to Fail"
+date:   2013-05-16 21:49:54 +0000
+categories: sep blogbattle
+---
 If you've been on this planet longer than a few minutes, then you know how to actively fail. A baby learning that he can control that thing on the end of his arm and scratching his forehead open with those paper thin fingernails. The teenager who rebels against her parents, just to regret it later when she has her own children. The guy in the suit that honks his horn at a car for not going on a green light, just to see a fire truck blast through the intersection. Failing is easy.
 
 However, you can also fail by not doing anything at all. That comes from Fear, and its cousin, Procrastination. A great book waiting to be written by the guy that just dreams about it all day without picking up a pencil or keyboard. Or "One day, I'll write that piece of software to make lives easier." Uh-huh. If you don't do something for long enough, eventually you run out of time.

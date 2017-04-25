@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Where Do You See Yourself in 25 Years?"
+date:   2013-05-21 00:31:33 +0000
+categories: sep blogbattle
+---
 SEP is celebrating its 25th anniversary of being in business.  Employees of all experiences are reminiscing on the past and speculating on the future.
 
 Do you remember when someone (usually a guidance counselor or a potential employer) would ask, "Where do you see yourself in 5 years?"  I'm not sure why, but I always hated that question.  There is so much that could happen in one year that could change the current of the stream that is your life, let alone the currents of 5 years and the huge ramifications of 25 years.
