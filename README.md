@@ -29,7 +29,7 @@ This repo should document the process of getting a development environment confi
   1. `bundle exec jekyll serve`
 
 # License
-The blog content (posts, drafts) are copyright Greg Lara. You may not reuse anything therein without my permission (all rights reserved).
+The blog content (posts, drafts, branding) are copyright Greg Lara. You may not reuse anything therein without my permission (all rights reserved).
 
 Images or other resources included from outside sources are attributed to their respective owners.
 

@@ -1,1 +1,7 @@
+# Vagrant ignores
 .vagrant
+
+# Jekyll ignores
+_site
+.sass-cache
+.jekyll-metadata
