@@ -27,10 +27,12 @@ This repo should document the process of getting a development environment confi
   1. `gem install bundler`
   1. `bundle install` (or `bundle update`, if this isn't your first time)
   1. `bundle exec jekyll serve`
+    1. Append `--drafts` for serving drafts folder
+    1. NOTE: Jekyll automatically updates when changes to its folder are made, but only on the guest VM.  Making changes from the host on the shared `/vagrant` folder does not trigger a Jekyll refresh.
 
 # License
 The blog content (posts, drafts, branding) are copyright Greg Lara. You may not reuse anything therein without my permission (all rights reserved).
 
-Images or other resources included from outside sources are attributed to their respective owners.
+Images or other resources included from outside sources are attributed to their respective owners.  Some images obtained from https://pixabay.com/.
 
 Other content generated here (for development or infrastructure purposes) are licensed under the MIT license (http://opensource.org/licenses/MIT).
