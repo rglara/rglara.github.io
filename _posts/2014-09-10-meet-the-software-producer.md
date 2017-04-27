@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Meet the Software Producer"
+date: 2014-09-10 14:08:16 +0000
+tags: [sep, discovery, job description, manager, producer, Software Producer]
+---
 It isn't every day that a new title is introduced around here. And I get to have the fun of helping define it, because I'm one of the few on the block with that new title: <strong>Software Producer</strong>.
 <h3>Why do we need a new title?</h3>
 SEP grew out of an engineering focus from its inception. Do the work right with integrity, and the clients will come. Those engineers matured, and a need for project managers arose as projects got larger. Engineers from the trenches moved into those roles, with mostly positive results. Projects were quoted, developed, and delivered. To this point, we have Senior and Lead Software Engineers that focus on project level technical leadership. Project managers are striving to make the project succeed (within budget and other business constraints). And everything was good, right?

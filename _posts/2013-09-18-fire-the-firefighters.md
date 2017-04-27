@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Fire the Firefighters"
+date: 2013-09-18 22:52:06 +0000
+tags: [sep, blog battle, project management]
+---
 Are there fires occurring on your projects? You know the ones:
 <blockquote>"We have a major delivery coming, and the testers just found 12 new defects."</blockquote>
 <blockquote>"The user study uncovered a missing feature, and we were just about ready for delivery."</blockquote>

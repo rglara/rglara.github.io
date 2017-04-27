@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Course Correction: Beware of Icebergs"
+date: 2013-08-19 20:19:54 +0000
+tags: [sep, blog battle, continuous delivery, discovery]
+---
 A coworker and I were discussing issues that impact a project's delivery or feature set. While throwing ideas around, I mentioned that we get hit by icebergs that disrupt our flow. He said, "what's an iceberg?"
 <a href="wp-content/uploads/2013/08/iceberg.jpg"><img class="wp-image-3221 alignright" alt="iceberg" src="wp-content/uploads/2013/08/iceberg-150x150.jpg" width="150" height="150" /></a>
 <h2>Knowledge Iceberg</h2>

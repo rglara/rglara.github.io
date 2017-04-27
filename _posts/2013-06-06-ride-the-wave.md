@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Ride the Wave"
+date: 2013-06-06 12:34:32 +0000
+tags: [sep, adapt, discovery, blog battle]
+---
 The beginning of summer at SEP usually means new hires.  While a few newbs come from other companies with experience already (so they aren't really newbs), a lot we hire come fresh out of college.  Thus, our vernacular:
 <blockquote>"Fresh Out"
 

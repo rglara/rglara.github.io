@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Where Do You See Yourself in 25 Years?"
-date:   2013-05-21 00:31:33 +0000
-tags: [sep, blogbattle]
+title: "Where Do You See Yourself in 25 Years?"
+date: 2013-05-21 00:31:33 +0000
+tags: [sep, goals, plans, blog battle, values]
 ---
 SEP is celebrating its 25th anniversary of being in business. Employees of all experiences are reminiscing on the past and speculating on the future.
 

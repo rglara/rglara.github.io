@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Diagnose, Deliver, Delight"
+date: 2013-08-28 23:29:04 +0000
+tags: [sep, blog battle, clients, discovery]
+---
 Burger King used to have a marketing campaign for <a title="1976 commercial" href="http://www.youtube.com/watch?v=CJMsFGH4eoQ">"Have It Your Way"</a>. For a restaurant setting, it's nice to be able to customize the normal menu for our tastes. But what does "Have It Your Way" really mean for our software clients? What's on the menu for a successful project?
 <h2>Diagnose the Problem</h2>
 <a href="wp-content/uploads/2013/08/diagnose.jpg"><img class="alignright size-medium wp-image-3479" alt="Diagnosis" src="wp-content/uploads/2013/08/diagnose-300x199.jpg" width="300" height="199" /></a>When a client comes to us with a project, the amount of forethought can vary from "I have an idea" to "I have a solution ready that just needs to be implemented". We diagnose the problem-space <em>and</em> solution-space to figure out a game plan. Sometimes, envisioning the project is simply getting our terminology synchronized. Sometimes, we have some collaborative sessions and generate a plan with our clients organically.

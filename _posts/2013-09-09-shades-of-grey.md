@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Shades of Grey"
+date: 2013-09-09 08:32:16 +0000
+tags: [sep, blog battle, product owner, users]
+---
 As professional football gets back in the swing of things, I'm reminded of one of the iconic plays from the sport: the <a href="http://en.wikipedia.org/wiki/Hail_Mary_pass">Hail Mary</a>. You have to score, but you have no time left and you're on the wrong side of the field. So, what do you do? You throw the ball way up and way far and say a prayer. Do or die; it's all or nothing.
 
 When I hear the phrase, "it's all or nothing", the risk-averse part of me just cringes. There are few things in life that are that absolute. I understand that some scenarios exist that are black and white and I can accept those.  But my nature is to find the right shade of grey for the situation, especially in software projects.

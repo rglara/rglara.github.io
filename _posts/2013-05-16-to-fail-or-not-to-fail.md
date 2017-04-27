@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "To Fail or Not to Fail"
-date:   2013-05-16 21:49:54 +0000
-tags: [sep, blogbattle]
+title: "To Fail or Not to Fail"
+date: 2013-05-16 21:49:54 +0000
+tags: [sep, procrastination, regret, blog battle]
 ---
 If you've been on this planet longer than a few minutes, then you know how to actively fail. A baby learning that he can control that thing on the end of his arm and scratching his forehead open with those paper thin fingernails. The teenager who rebels against her parents, just to regret it later when she has her own children. The guy in the suit that honks his horn at a car for not going on a green light, just to see a fire truck blast through the intersection. Failing is easy.
 

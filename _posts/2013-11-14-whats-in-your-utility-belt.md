@@ -1,3 +1,9 @@
+---
+layout: post
+title: "What’s in your Utility Belt?"
+date: 2013-11-14 09:47:46 +0000
+tags: [sep, acceptance criteria, behavior driven development, blog bloc, git, persona, user stories]
+---
 When developing software, we engineers have to use a variety of tools to deliver the right product to our clients. As Batman has practically everything in his utility belt, let's see what I keep up my sleeve as staples of software engineering.
 <h3>The Soft Skills</h3>
 These are the skills I use for software engineering and product ownership. There are a few technologies, but these are mostly techniques that help define the right product to develop and the environment in which software will be used. These are heavily influenced by training sessions with <a title="Jeff Patton on Twitter" href="https://twitter.com/jeffpatton">Jeff Patton</a>, <a title="The Dude on Twitter" href="https://twitter.com/davidhussman">David Hussman</a>, and SEP's own <a title="Chris Shinkle on Twitter" href="https://twitter.com/chrisshinkle">Chris Shinkle</a>.

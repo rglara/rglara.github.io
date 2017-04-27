@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Software Producer: What's in a name?"
+date: 2014-09-10 16:57:46 +0000
+tags: [sep, agile coach, job description, product manager, Software Producer]
+---
 SEP had an interesting time establishing the title of Software Producer. We wanted it to mean something, like "Software Engineering Professionals" is not just our name; it's who we are.
 <h2>Not a Product Manager</h2>
 When looking into the activities that our Software Producer perform, there is a lot of overlap with a Product Manager. That title is common among the professional community. We even participate in the local <a title="Indy Product Management Meetup" href="http://www.meetup.com/Indy-Product-Management/">Product Management meetup</a>. However, it wasn't what we were looking for.

@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Over the Horizon"
+date: 2013-11-10 23:17:13 +0000
+tags: [sep, blog bloc, development, possibilities, retrospective]
+---
 Software is a very fluid realm, and the ebbs and flow move quickly. <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore's Law</a> in hardware is dragging software with it, if the software isn't already pushing the hardware itself. Often people ask, what's next?
 
 <h2>Days Gone By</h2>

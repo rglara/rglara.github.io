@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Where have you been all my life?"
+date: 2013-12-04 21:32:06 +0000
+tags: [sep, agile, lean, waterfall, requirements]
+---
 Someone asked me a few weeks ago how lean/agile (little L, little A) has changed how I worked. At the time, I didn't think that I've changed what I did all that much. Sure, lean and agile practices have refined how things are done. Kanban, story mapping, and product ownership are just some of the tools I've learned over the past decade. But I hadn't realized how far I've come.
 <h3>Remember that one time?...</h3>
 Earlier in the week, someone asked me about a project I had worked on around 6 to 8 years ago. I remember doing discovery, learning the domain, and preparing for the project to start implementation. It was a great problem domain, in that, there were tons of technical challenges and the opportunity to make a great product for the client. Fond memories of tackling that challenge.

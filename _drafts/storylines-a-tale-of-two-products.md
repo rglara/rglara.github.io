@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Storylines:  A Tale of Two Products"
-date:   2017-04-25 00:00:00 +0000
-tags: [sep]
+title: "Storylines: A Tale of Two Products"
+tags: [sep, acceptance criteria, persona, product development, story map, requirements]
 ---
 So, you say you want to build a product? Awesome. How do you get started?
 

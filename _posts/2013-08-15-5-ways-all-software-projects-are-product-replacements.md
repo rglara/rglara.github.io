@@ -1,3 +1,9 @@
+---
+layout: post
+title: "5 Ways All Software Projects are Product Replacements"
+date: 2013-08-15 22:54:54 +0000
+tags: [sep, agile, change, lean, persona]
+---
 I was updating my bio at work for the last few projects I've been on since I was between projects. I looked back at some of the projects I've worked on and remembered the "good ol' times". Some projects were executed well and the client appreciated the outcome (read: warm fuzzies), while others produced a variety of useful retrospective topics and lessons learned (read: stressful, hair-pulling, glad I'm on this side of that delivery).
 
 [caption id="" align="alignright" width="202"]<img src="http://kotorimagazine.com/files.php?file=Men_in_Black_414750218.jpg" alt="" width="202" height="183" /> Men In Black (<a href="http://www.sonypictures.com/">Columbia Pictures / Sony Pictures</a>)[/caption]
