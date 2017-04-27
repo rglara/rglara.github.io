@@ -2,7 +2,7 @@
 layout: post
 title:  "Storylines:  A Tale of Two Products"
 date:   2017-04-25 00:00:00 +0000
-categories: sep
+tags: [sep]
 ---
 So, you say you want to build a product? Awesome. How do you get started?
 
@@ -18,7 +18,7 @@ Then a Developer would take this tome, try to read it, and then implement what t
 
 Someone, hopefully the Author of the Document or someone that halfway understands the 200 page document, would then try to use the Thing to see if it actually did what they wrote. Some parts would work; other wouldn't.
 
-When the Author would ask the Developer why it didn't work, the Developer would say that it does work… for their interpretation of the document. Then the Author would explain, and the Developer would change the Thing. Hopefully, the Author would update the Document for the change. But sometimes they forgot.
+When the Author would ask the Developer why it didn't work, the Developer would say that it does work... for their interpretation of the document. Then the Author would explain, and the Developer would change the Thing. Hopefully, the Author would update the Document for the change. But sometimes they forgot.
 
 The Stakeholders were nervous. The Author assured them the Thing would be an awesome Product one day. The Developer just had to get through the Document.
 
