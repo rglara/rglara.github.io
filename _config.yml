@@ -28,3 +28,5 @@ exclude:
   - user-provision.sh
   - README.md
   - favicon.png
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
