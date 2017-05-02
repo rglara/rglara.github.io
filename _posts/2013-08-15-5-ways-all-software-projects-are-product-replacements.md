@@ -31,12 +31,20 @@ When developing software, we try to target a group of people that will be using 
 
 Some software evolves to have functionality to "keep up with the Jones'". Some software leads ahead of its competitors with new ideas. However, other software may change its focus and morph into something slightly different, getting the attention of a new customer base. As business people like to say, it was a "strategic marketing decision". In this way, the software isn't replacing itself; it's replacing its competitors in the hearts of their customers.
 
-[caption id="attachment_7377" align="alignright" width="150"]<img src="wp-content/uploads/2016/10/wenger_giant_knife-150x150.jpg" alt="Giant Swiss Army Knife" width="150" height="150" /> Giant Knife (<a href="http://www.wengerna.com/">Wenger</a>)[/caption]
-<h2>Refinement: Trim the Fat</h2>
-Just as metal is refined by removing the impurities, software may need to be refined to clean out features that aren't used or provide little utility. In the Lean and Agile software practices, we call this "reducing waste" or "trimming the fat". We're replacing stuff with ... nothing. And it's all the better for it. It makes room for features that are more appropriate or needed.
-<h4>The More Things Change, the More They Stay the Same</h4>
-With <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore's Law</a> pushing hardware limits and certain portions of software implementation becoming commodities, expectations around software performance and functionality are becoming more and more user-centric. People are looking for the next new thing. Phones are out of date before they are released. E-readers are replacing print books in some cases. Mainstream media is being phased out by the internet and social media. We're either <a href="2013/06/06/ride-the-wave/">riding the wave</a> or being left behind.
-<blockquote>Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.
+<div style="float:right;text-align:center;width:150px;margin-left:20px;">
+  <img src="/images/wenger_giant_knife.jpg" width="150" height="150" /><br/>
+  <p style="font-size:12px;">Giant Knife (<a href="http://www.wengerna.com/">Wenger</a>)</p>
+</div>
 
+<h2>Refinement: Trim the Fat</h2>
+
+Just as metal is refined by removing the impurities, software may need to be refined to clean out features that aren't used or provide little utility. In the Lean and Agile software practices, we call this "reducing waste" or "trimming the fat". We're replacing stuff with ... nothing. And it's all the better for it. It makes room for features that are more appropriate or needed.
+
+<h4>The More Things Change, the More They Stay the Same</h4>
+
+With <a href="http://en.wikipedia.org/wiki/Moore's_law">Moore's Law</a> pushing hardware limits and certain portions of software implementation becoming commodities, expectations around software performance and functionality are becoming more and more user-centric. People are looking for the next new thing. Phones are out of date before they are released. E-readers are replacing print books in some cases. Mainstream media is being phased out by the internet and social media. We're either <a href="/2013/06/06/ride-the-wave/">riding the wave</a> or being left behind.
+
+<blockquote>Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.<br/>
 - Apple Inc.</blockquote>
+
 We, as software engineers, need to continuously improve and continuously deliver our products. If that means replacing something we or someone else has worked on, so be it. Push forward.  Odds are, we'll do it again; but next time, we'll do it better.
