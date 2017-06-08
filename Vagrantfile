@@ -32,6 +32,9 @@ Vagrant.configure("2") do |config|
 
     # Customize the amount of memory on the VM:
     vb.memory = "2048"
+
+    # Atom editor can't run with 3D acceleration
+    vb.customize ["modifyvm", :id, "--accelerate3d", "off"]
   end
 
   # Enable provisioning with a shell script.
@@ -55,12 +58,20 @@ Vagrant.configure("2") do |config|
     echo '--------------------------------'
     echo '- Installing general libraries -'
     echo '--------------------------------'
-    apt-get install -y curl git
+    apt-get install -y curl git gitk
 
     echo '--------------------------------'
     echo '- Installing Ruby dependencies -'
     echo '--------------------------------'
     apt-get install -y libreadline-dev libssl-dev zlib1g-dev
+
+    echo '--------------------------'
+    echo '- Installing Atom editor -'
+    echo '--------------------------'
+    # Adapted from https://askubuntu.com/a/630530
+    wget -q https://github.com/atom/atom/releases/latest -O /tmp/latest-atom
+    wget -q $(awk -F '[<>]' '/href=".*atom-amd64.deb/ {match($0,"href=\\"(.*.deb)\\"",a); print "https://github.com/" a[1]} ' /tmp/latest-atom) -O /tmp/atom-amd64.deb
+    dpkg -i /tmp/atom-amd64.deb
 
     # do user level provisioning
     su -c "source /vagrant/user-provision.sh" vagrant
