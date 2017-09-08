@@ -1,0 +1,8 @@
+{% if include.align == "left" %}
+  {% assign float = "left" %}
+  {% assign margin = "right" %}
+{% else %}
+  {% assign float = "right" %}
+  {% assign margin = "left" %}
+{% endif %}
+<img src="/images/{{ include.image }}" width="{{ include.width }}" height="{{ include.height }}" style="float:{{ float }};margin-{{ margin }}:20px;{{ include.style }}" />

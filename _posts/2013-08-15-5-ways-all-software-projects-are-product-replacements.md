@@ -8,10 +8,7 @@ I was updating my bio at work for the last few projects I've been on since I was
 
 <h2>Old & Busted vs. New Hotness</h2>
 
-<div style="float:right;text-align:center;width:202px;margin-left:20px;">
-  <img src="/images/mib.jpg" width="202" height="183" /><br/>
-  <p style="font-size:12px;">Men In Black (<a href="http://www.sonypictures.com/">Columbia Pictures / Sony Pictures</a>)</p>
-</div>
+{% include captioned_image.html image="mib.jpg" width="202" height="183" caption="Men In Black" url="http://www.sonypictures.com/" reference="Columbia Pictures / Sony Pictures" %}
 
 There were some projects I mentally labeled as product replacements because they usually involved taking a piece of hardware that was outdated and building a newer, smaller, more efficient version with new firmware. We do many projects in this vein: taking the functionality of old software and/or hardware and putting it onto a new platform.
 
@@ -31,10 +28,7 @@ When developing software, we try to target a group of people that will be using 
 
 Some software evolves to have functionality to "keep up with the Jones'". Some software leads ahead of its competitors with new ideas. However, other software may change its focus and morph into something slightly different, getting the attention of a new customer base. As business people like to say, it was a "strategic marketing decision". In this way, the software isn't replacing itself; it's replacing its competitors in the hearts of their customers.
 
-<div style="float:right;text-align:center;width:150px;margin-left:20px;">
-  <img src="/images/wenger_giant_knife.jpg" width="150" height="150" /><br/>
-  <p style="font-size:12px;">Giant Knife (<a href="http://www.wengerna.com/">Wenger</a>)</p>
-</div>
+{% include captioned_image.html image="wenger_giant_knife.jpg" width="150" height="150" caption="Giant Knife" url="http://www.wengerna.com/" reference="Wenger" %}
 
 <h2>Refinement: Trim the Fat</h2>
 

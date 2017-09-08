@@ -1,0 +1,14 @@
+{% if include.align == "left" %}
+  {% assign float = "left" %}
+  {% assign margin = "right" %}
+{% else %}
+  {% assign float = "right" %}
+  {% assign margin = "left" %}
+{% endif %}
+{% if include.url and include.reference %}
+  {% capture note %}(<a href="{{ include.url }}">{{ include.reference }}</a>){% endcapture %}
+{% endif %}
+<div style="float:{{ float }};text-align:center;width:{{ include.width }}px;margin-{{ margin }}:20px;">
+  <img src="/images/{{ include.image }}" width="{{ include.width }}" height="{{ include.height }}" /><br/>
+  <p style="font-size:12px;">{{ include.caption }} {{ note }}</p>
+</div>

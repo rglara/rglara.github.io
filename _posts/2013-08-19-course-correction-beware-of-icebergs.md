@@ -5,7 +5,9 @@ date: 2013-08-19 20:19:54 +0000
 tags: [sep, blog battle, continuous delivery, discovery]
 ---
 A coworker and I were discussing issues that impact a project's delivery or feature set. While throwing ideas around, I mentioned that we get hit by icebergs that disrupt our flow. He said, "what's an iceberg?"
-<a href="wp-content/uploads/2013/08/iceberg.jpg"><img class="wp-image-3221 alignright" alt="iceberg" src="wp-content/uploads/2013/08/iceberg-150x150.jpg" width="150" height="150" /></a>
+
+{% include side_image.html image="iceberg.jpg" width="150" height="150" %}
+
 <h2>Knowledge Iceberg</h2>
 When I typically think of an iceberg on a project, I think of a feature or epic that we originally spec out with confidence. (Imagine looking at the top of an iceberg.) Later, we find a key misunderstanding or missing piece of information. (Imagine the portion of the iceberg under the water.) Then the scope or complexity of the feature/epic gets blown out of proportion. Icebergs obviously aren't planned, so project deliveries get impacted.
 
@@ -13,11 +15,14 @@ You can also think of icebergs in a larger scope when feature creep starts to oc
 <h2>On the Lookout</h2>
 How can we avoid icebergs? The simple answer is get more information. Others that have investigated icebergs in their own fields (they aren't just in software) have made the analogy to make the icebergs float higher. We need to uncover more of the iceberg so we know exactly how to attack the problem.
 
-[caption id="" align="alignright" width="300"]<a href="wp-content/uploads/2013/08/ConeOfUncertainty.png"><img class=" " alt="Cone oUncertainty" src="wp-content/uploads/2013/08/ConeOfUncertainty-300x189.png" width="300" height="189" /></a> Cone of Uncertainty using Continuous Delivery validation to mitigate risk[/caption]To that end, I've been a major proponent of our Envision practices at SEP. We're doing a better job engaging our clients before the project begins to discover what their needs and wants are and setting up expectations. Techniques like User Personas, Story Mapping, and Paper Prototyping set a framework for discussing scope and ideas using a shared terminology. (We have <a title="Story Mapping – Getting Started" href="2010/04/07/story-mapping-getting-started/">other</a> <a title="Why Perform Discovery (Envision) On the Front End of a Development Process?" href="2012/06/19/why-perform-discovery-envision-on-the-front-end-of-a-development-process/">posts</a> to discuss that realm, and you can also check out <a title="Jeff Patton on Twitter" href="https://twitter.com/jeffpatton">Jeff Patton</a>'s going-ons for more details.) By having that shared understanding, our clients a) begin seeing our investment into the project, and then as a result, b) information starts to flow quicker and easier.
+{% include captioned_image.html image="ConeOfUncertainty.png" width="300" height="189" caption="Cone of Uncertainty using Continuous Delivery validation to mitigate risk" %}
+
+To that end, I've been a major proponent of our Envision practices at SEP. We're doing a better job engaging our clients before the project begins to discover what their needs and wants are and setting up expectations. Techniques like User Personas, Story Mapping, and Paper Prototyping set a framework for discussing scope and ideas using a shared terminology. (We have <a title="Story Mapping – Getting Started" href="https://www.sep.com/sep-blog/2010/04/07/story-mapping-getting-started/">other</a> <a title="Why Perform Discovery (Envision) On the Front End of a Development Process?" href="https://www.sep.com/sep-blog/2012/06/19/why-perform-discovery-envision-on-the-front-end-of-a-development-process/">posts</a> to discuss that realm, and you can also check out <a title="Jeff Patton on Twitter" href="https://twitter.com/jeffpatton">Jeff Patton</a>'s going-ons for more details.) By having that shared understanding, our clients a) begin seeing our investment into the project, and then as a result, b) information starts to flow quicker and easier.
 
 On the development side, we've embraced a lean and agile (read: "little-a agile") mentality and implementation paradigm. In contrast to waterfall or overly heavy processes, we can iterate quickly and get the feedback we need to course correct a project or get validation on ideas that are still in their infancy. When we can get the development process combined with a bit of product ownership, <a href="http://en.wikipedia.org/wiki/Emergent_Design">emergent design</a> and <a href="http://en.wikipedia.org/wiki/Continuous_delivery">continuous delivery</a> can help us overcome the <a href="http://en.wikipedia.org/wiki/Cone_of_Uncertainty">cone of uncertainty</a> that can plague a project.
 <h2>Avoiding a Titanic Failure</h2>
-[caption id="attachment_3251" align="alignright" width="300"]<a href="wp-content/uploads/2013/08/CourseCorrection.png"><img class="size-medium wp-image-3251 " alt="Course Correction" src="wp-content/uploads/2013/08/CourseCorrection-300x189.png" width="300" height="189" /></a> Course Correction and the Cost of Change[/caption]
+
+{% include captioned_image.html image="CourseCorrection.png" width="300" height="189" caption="Course Correction and the Cost of Change" %}
 
 Let's say that we're at point A in the project's lifecycle. Our goal as we have defined it is sitting at point B. Using our crystal ball to see the future, we know that we really want to land at point C when it's all said and done. <em>How do we get to our goal?</em>
 

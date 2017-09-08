@@ -5,7 +5,7 @@ tags: [sep, acceptance criteria, persona, product development, story map, requir
 ---
 So, you say you want to build a product? Awesome. How do you get started?
 
-<img src="/images/ideaman.png" width="100" height="200" style="float:right; margin-left: 20px;" />
+{% include side_image.html image="ideaman.png" width="100" height="200" %}
 
 <h2>In the Days of Yore</h2>
 
@@ -23,13 +23,13 @@ The Stakeholders were nervous. The Author assured them the Thing would be an awe
 
 <h3>Epilogue</h3>
 
-<img src="/images/oldbook.jpg" width="200" height="134" style="float:right; margin-left: 20px;" />
+{% include side_image.html image="oldbook.jpg" width="200" height="134" %}
 
 Four months into the effort, the market for the Thing changed. The Developer was one third of the way through the Document. But the Author saw that the Thing wasn't functional and had to change. So, the Author told the Developer to stop. The Document was put on the shelf. The Author gathered a new group to write a new Document...
 
 And there was no happily ever after.
 
-<img src="/images/ideaman.png" width="100" height="200" style="float:right; margin-left: 20px; transform: scale(-1,1);" />
+{% include side_image.html image="ideaman.png" width="100" height="200" style="transform:scale(-1,1);" %}
 
 <h2>In a Parallel Universe</h2>
 
@@ -45,7 +45,7 @@ With the Persona in mind, the Author, now Product Owner (PO), talked with the De
 
 <h3>Learn, Build, Measure, Repeat</h3>
 
-<img src="/images/roundabout.png" width="200" height="200" style="float:left; margin-right: 20px;" />
+{% include side_image.html image="roundabout.png" width="200" height="200" align="left" %}
 
 The Story Map was too big to do all at once, so the Product Owner found the most appropriate stories in the Story Map to do first and started fleshing them out. The PO took the stories with their notes and wrote Acceptance Criteria to define when each story would be done.
 
@@ -61,7 +61,7 @@ Stories were pulled off the Story Map just enough to keep the backlog of work fi
 
 <h3>Alternate Epilogue</h3>
 
-<img src="/images/holiday.jpg" width="200" height="133" style="float:right; margin-left: 20px;" />
+{% include side_image.html image="holiday.jpg" width="200" height="133" %}
 
 Things continued like this week after week. Four months into the effort, the market for the Product changed. The PO noticed that her Story Map had some of those ideas, but the market research filled in the gaps for her. She changed the prioritization of her stories and started working on them as soon as the Developer was ready. The cadence of delivery didn't skip a beat.
 
