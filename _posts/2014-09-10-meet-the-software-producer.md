@@ -10,7 +10,7 @@ SEP grew out of an engineering focus from its inception. Do the work right with
 
 Well, a gap materialized that we really didn't realize was there. We noticed that some of the projects we worked on were being left on the proverbial shelf. The client was happy with the quality of the project, and the project came in on budget. But the software never saw the light of day because it <em>solved the wrong problem</em>.
 
-As a result of this enlightenment, SEP began offering <a href="services/">Discovery services</a> to engage our clients earlier in the process; to help understand our client's problems and pain points to be able to collaborate to achieve a common goal. The goal to deliver high quality software that meets the real need of our clients. However, the gap was being filled by our LSEs and PMs, some of which didn't have the tool-set to most effectively attack the problem.
+As a result of this enlightenment, SEP began offering <a href="https://www.sep.com/services/">Discovery services</a> to engage our clients earlier in the process; to help understand our client's problems and pain points to be able to collaborate to achieve a common goal. The goal to deliver high quality software that meets the real need of our clients. However, the gap was being filled by our LSEs and PMs, some of which didn't have the tool-set to most effectively attack the problem.
 <h3>Enter the Software Producer</h3>
 A Software Producer's job is to ensure that the right product is being built. A good analogy I use is to compare it to releasing a new music album (or record, for those vinyl enthusiasts).
 <ul>

@@ -12,8 +12,10 @@ Anyone else feel a tightness in their chest reading through those? Anyone have V
 
 But the project usually gets done, as something has to give. Either the schedule gets extended or scope is adjusted. Or maybe people step up and get things done. We sometimes call them the firefighters.
 
-[caption id="attachment_3675" align="alignright" width="214"]<a href="http://www.flickr.com/photos/lancecheungmedia/4343175163/"><img class=" wp-image-3675  " alt="Dragon's Breath at Firefighter School" src="wp-content/uploads/2013/09/DragonsBreath.jpg" width="214" height="240" /></a> Dragon's Breath at Firefighter School<br />(via Flickr)[/caption]
 <h3>Send in the Firefighters</h3>
+
+{% include captioned_image.html image="DragonsBreath.jpg" width="214" height="240" caption="Dragon's Breath at Firefighter School" url="http://www.flickr.com/photos/lancecheungmedia/4343175163/" reference="via Flickr" %}
+
 Firefighters are the people that will buckle down and get things done in a crunch. The thing that has to give in that situation isn't time or scope, it's people's lives. Increased stress, long work hours, and missed family time. While there is an occasional need, we have to limit those times to emergencies, just like our need for firefighters that fight physical fires.
 
 However, not all people think like I do. I had a client once tell the project teams, "We don't want your hair on fire all the time. It should just remain smoldering..." What I heard him say was that he wanted the teams to be constantly on the edge of starting a fire. I physically cringed and did a double-take from shock. If you are close to starting a fire, something is wrong!
