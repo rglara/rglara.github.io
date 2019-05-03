@@ -12,6 +12,8 @@ I was preparing for the <a title="AgileIndy" href="https://agileindy.org/">Agile
 
 I've been to AgileIndy a few times now. I enjoy getting away from the office and see how others are applying these agile/lean principles out in-the-wild. (If you haven't been, I'd recommend it. If not Indy, find your closest <a title="Agile Alliance Communities" href="https://www.agilealliance.org/communities/">Agile Community</a>.)
 
+{% include side_image.html image="light-bulb-paper.jpg" width="320" height="213" %}
+
 The opening keynote by Arie Van Bennekum was well-received. I got some great sound bites that gave me a laugh and really ring true:
 
 <blockquote>
@@ -55,7 +57,11 @@ As the saying goes, "you can make the data say whatever you want it to". The tea
 
 ## Full Circle at Lunch
 
-As I was having lunch, I struck up a conversation with a lady from a local insurance company. I had mentioned the theme of "trust" throughout my morning, and she confided that in her company's transition to being more agile, their leadership had bouts of good and bad dealings of trust. It felt good to get out of my own personal echo-chamber and hear validation from outside. We shared our respective stories, and I hope she can make use of her experience at the conference to make strides in her situation.
+As I was having lunch, I struck up a conversation with a lady from a local insurance company. I had mentioned the theme of "trust" throughout my morning, and she confided that in her company's transition to being more agile, their leadership had bouts of good and bad dealings of trust. It felt good to get out of my own personal echo-chamber and hear validation from outside.
+
+{% include captioned_image.html image="trust_gt_control.png" width="263" height="170" caption="Trust is greater than Control" url="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/" reference="Spotify's Engineering Culture" %}
+
+As we shared our respective stories, I was reminded of Spotify's engineering culture presentation. We don't strive to control people but to trust them. That means there are no politics; there is no fear. The fear of failing must be purged because it is a fact of life. Agile recognizes it, in that we _fail fast_ so we can learn and adapt quicker. Without failure, there is no learning.
 
 The after-lunch keynote by Maria Matarelli brought it full circle for me. She talked about focus and the importance of direction over speed. We may go fast, but if it isn't in the right direction, it really isn't getting us to our goals. The lack of focus can lead to abandoning efforts before completion:
 
