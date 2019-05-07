@@ -6,7 +6,7 @@ tags: [sep, AgileIndy, AgileIndy2019, trust]
 
 ## Prequel
 
-I was preparing for the <a title="AgileIndy" href="https://agileindy.org/">AgileIndy</a> conference, so I thought gather up some notes for products I've worked on and see if I could find some common success factors. I started digging through my old Trello board for blog ideas and started noticing something. A word kept shining through my notes. I thought, "That's neat. I'll have do something with that later." But I didn't really grasp the importance until later.
+I was preparing for the <a title="AgileIndy" href="https://agileindy.org/">AgileIndy</a> conference, so I thought I'd gather up some notes for products I've worked on and see if I could find some common success factors. I started digging through my old Trello board for blog ideas and started noticing something. A word kept shining through my notes. I thought, "That's neat. I'll have do something with that later." But I didn't really grasp the importance until later.
 
 ## AgileIndy 2019 kickoff
 
@@ -14,7 +14,7 @@ I've been to AgileIndy a few times now. I enjoy getting away from the office and
 
 {% include side_image.html image="light-bulb-paper.jpg" width="320" height="213" %}
 
-The opening keynote by Arie Van Bennekum was well-received. I got some great sound bites that gave me a laugh and really ring true:
+The opening keynote by <a title="Arie on Twitter" href="https://twitter.com/arievanbennekum">Arie Van Bennekum</a> was well-received. I got some great sound bites that gave me a laugh and really ring true:
 
 <blockquote>
 Don't worry about being late. Your competition will be on time.
@@ -37,7 +37,7 @@ This was a gut-punch, both professionally and personally.
 
 ## Breakout Sessions
 
-My first breakout session at the conference was by Laura Hansen, who was speaking about The "F" word: failure. Who hasn't had a failed project? I was curious on her spin.
+My first breakout session at the conference was by <a title="Laura on Twitter" href="https://twitter.com/FantasticFrau">Laura Hansen</a>, who was speaking about The "F" word: failure. Who hasn't had a failed project? I was curious on her spin.
 
 It started out with a dig on agile certification companies, where she posits that those companies are primarily in it for the money (which I respected, because I had a similar, yet reserved, opinion). Then she went into a retro, of sorts, on her failed project(s). Each point focused on a value of the <a title="Agile Manifesto" href="https://agilemanifesto.org">Agile Manifesto</a>.
 
@@ -47,7 +47,7 @@ In speaking on the value of "Individuals and Interactions over processes and too
 TRUST
 </blockquote>
 
-Each of my projects that "hit it out of the park" had a strong sense of _trust_, both me to my client, and from my client to me. If I could trust my client would answer questions in a reasonable amount of time and were transparent with conversations, I had confidence the project would run smoothly. If my client trusted me and my team to deliver the best quality of product that met their goals, that's what they got.
+Each of my projects that "hit it out of the park" had a strong sense of _trust_, both me to my client, and from my client to me. My team and I built this trust up over time with on-point deliveries and transparent conversation. If I could trust my client would answer questions in a reasonable amount of time and were transparent with conversations, I had confidence the project would run smoothly. If my client trusted me and my team to deliver the best quality of product that met their goals, that's what they got.
 
 However, if my client would micro-manage me and my team because they didn't believe our forecasts, it was rocky terrain. If my client wasn't engaged when we had clarifying questions, I wasn't confident that what we delivered would be good enough for them, usually requiring re-work and stress at the end.
 
@@ -63,7 +63,7 @@ As I was having lunch, I struck up a conversation with a lady from a local insur
 
 As we shared our respective stories, I was reminded of Spotify's engineering culture presentation. We don't strive to control people but to trust them. That means there are no politics; there is no fear. The fear of failing must be purged because it is a fact of life. Agile recognizes it, in that we _fail fast_ so we can learn and adapt quicker. Without failure, there is no learning.
 
-The after-lunch keynote by Maria Matarelli brought it full circle for me. She talked about focus and the importance of direction over speed. We may go fast, but if it isn't in the right direction, it really isn't getting us to our goals. The lack of focus can lead to abandoning efforts before completion:
+The after-lunch keynote by <a title="Maria on Twitter" href="https://twitter.com/MariaMatarelli">Maria Matarelli</a> brought it full circle for me. She talked about focus and the importance of direction over speed. We may go fast, but if it isn't in the right direction, it really isn't getting us to our goals. The lack of focus can lead to abandoning efforts before completion:
 
 <blockquote>
 Stop starting; Start finishing
